@@ -1,0 +1,16 @@
+ .container {
+  max-width: 1600px;
+  position: relative;
+  top: 50px;
+  margin-bottom: 30px;
+}
+
+.table-results {
+  overflow: auto;
+}
+
+.save-button {
+  float: right;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+}
