@@ -23,7 +23,7 @@ itsdangerous==1.1.0       # via flask
 jinja2==2.10.3            # via flask
 markupsafe==1.1.1         # via jinja2
 mccabe==0.6.1             # via flake8
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.2
 plotly==4.2.1
 pycodestyle==2.5.0        # via flake8
